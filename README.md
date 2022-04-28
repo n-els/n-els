@@ -4,7 +4,7 @@
 
 - 🔭 I’m interested in **Web Development, Mobile app development and Software development in general**
 
-- 🌱 I’m currently learning **to build API's with NodeJS & MongoDB**
+- 🌱 I’m currently learning **to build API's with NodeJS & MongoDB and Frontends with ReactJS**
 
 - 📫 You can reach me at **nels{at}tuta.io**
 
