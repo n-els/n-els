@@ -4,7 +4,7 @@
 
 - 🔭 I’m interested in **Web Development, Mobile app development and Software development in general**
 
-- 🌱 I'm currently learning how to develop full stack web applications with next.js**
+- 🌱 I'm currently learning how to develop full stack web applications with **next.js**
 
 - 📫 You can reach me at **nels{at}tuta.io**
 
