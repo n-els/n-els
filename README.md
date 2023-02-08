@@ -19,8 +19,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=n-els&theme=nord&no-frame=true&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=n-els&icon=5&color=6)](https://visitcount.itsvg.in)
-
-
