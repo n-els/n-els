@@ -4,7 +4,7 @@
 
 - 🔭 I’m interested in **Web Development, Mobile app development and Software development in general**
 
-- 🌱 I'm currently develop full stack web applications with **next.js** and learning how to use Angular
+- 🌱 I'm currently develop web applications with **laravel** and **next.js**.
 
 - 📫 You can reach me at **nels{at}tuta.io**
 
@@ -16,8 +16,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=n-els&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=n-els&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=n-els&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=n-els&icon=6&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
