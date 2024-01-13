@@ -4,7 +4,7 @@
 
 - 🔭 I’m interested in **Web Development, Mobile app development and Software development in general**
 
-- 🌱 I'm currently develop web applications with **laravel** and **next.js**.
+- 🌱 I'm currently develop web applications with **Laravel**, **next.js** and highly dynamic customized **WordPress**-Websites.
 
 - 📫 You can reach me at **nels{at}tuta.io**
 
